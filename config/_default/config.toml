@@ -1,4 +1,4 @@
-baseURL = "http://example.org"
+baseURL = "http://hugo.jast.ru"
 title = "Hugo Zdoc Theme"
 theme = "zdoc"
 
