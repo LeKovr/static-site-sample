@@ -27,6 +27,10 @@ Code uses
 
 {{< gallery_tag tag="flowers" />}}
 
+## Peoples in Tokyo
+
+{{< gallery_tag tag="tokyo" />}}
+
 ## Source of this page
 
 {{< source "content/en/blog/gallery.md" >}}
